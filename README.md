@@ -21,15 +21,7 @@
 </a>
 
   
-    </td>
-    <td align="center">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-      </a>
-      <br>PHP
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="_
+   
 
 </p>
 
